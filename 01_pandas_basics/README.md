@@ -13,7 +13,7 @@ It was obtained from Kaggle:
 
 Daily Minimum Temperatures Dataset  
 Source: Kaggle  
-Link: [https://www.kaggle.com/datasets/XXXXXXXX](https://www.kaggle.com/datasets/suprematism/daily-minimum-temperatures)
+Link: https://www.kaggle.com/datasets/suprematism/daily-minimum-temperatures
 
 To run the notebook locally:
 
